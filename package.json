@@ -5,7 +5,8 @@
     "main": "index.js",
     "types": "./types/index.d.ts",
     "scripts": {
-        "test": "node tests/index.js"
+        "test": "node tests/index.js",
+        "build": ""
     },
     "repository": {
         "type": "git",
